@@ -1,10 +1,14 @@
 
 # AI Chat NPC - Tutorial
 
-**Prepared and Presented by**  
-**Professor Akram Taghavi-Burris**  
-Program Director and Associate Instructional Professor of Computer Simulation & Gaming  
-University of Tulsa, Tandy School of Computer Science
+#### **Prepared and Presented by**
+
+**Professor Akram Taghavi-Burris**
+
+*Program Director and Associate Instructional Professor of Computer Simulation & Gaming*
+
+*University of Tulsa, Tandy School of Computer Science*
+
 ---
 
 ## Overview
@@ -26,13 +30,12 @@ By the end of this tutorial, you'll have a working framework for AI-driven NPCs 
 Before starting this tutorial, ensure you have the following:
 
 - **Unity (2020 or later)**: You will need a Unity version that supports the Unity Package Manager.
-- **Open Source LLM Unity Plugin**: Download and integrate the open-source LLM plugin into your Unity project.
+- **[Open Source LLM Unity Plugin](https://github.com/undreamai/LLMUnity?tab=readme-ov-file)**: Download and integrate the open-source LLM plugin into your Unity project.
 - **Basic Unity & C# Knowledge**: A familiarity with Unity development and C# scripting.
-- **AI/LLM Setup**: A pre-configured LLM (large language model) or an API service that you intend to use for AI-driven conversation.
 
 ### Optional Prerequisite:
 
-- **Unity StarterAssets Character Controller**: 
+- **[Unity StarterAssets Character Controller](https://assetstore.unity.com/packages/essentials/starter-assets-character-controllers-urp-267961?srsltid=AfmBOoo9hb-T17KsR4mcZ3hLaN8KwV5ukBrp3CbaZ9rDzmBWVBTDAv7S)**: 
    - This tutorial is compatible with Unity's **StarterAssets Character Controller** package. It uses **Cinemachine** and the **New Input System** to provide smooth character movement and camera controls.
    - **Why Use StarterAssets**: It simplifies character movement and camera management, providing a ready-made controller for your NPC or player character. If you already have your own controller setup, feel free to skip this part, but using **StarterAssets** will speed up the process and make character setup easier.
 
